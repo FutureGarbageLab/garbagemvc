@@ -1,2 +1,2 @@
-# GarbageMvc
+# GarbageMVC
 Welcome to GarbageMVC!
